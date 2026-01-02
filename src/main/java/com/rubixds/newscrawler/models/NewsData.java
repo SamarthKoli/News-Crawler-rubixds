@@ -14,6 +14,11 @@ public class NewsData {
     private String source;
     private String publishedTime;
 
+    private String fullText;
+    private String summary;
+    private String sentimentLabel;
+    private double sentimentScore;
+
 
 
 }
